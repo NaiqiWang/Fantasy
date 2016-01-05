@@ -1,0 +1,4 @@
+1) Install of Naiqi's packages locally
+2) Integrate Lenny's and Naiqi's code
+3) Create folder hierarchy, move files into Optimizer/Predictor/Util directories (figure out how to import)
+4) Figure out why using the NFL DraftKings dummy predictor with the NFL FanDuel optimizer crashes the solver

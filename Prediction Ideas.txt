@@ -1,0 +1,8 @@
+Predicting a player's points scored:
+
+0) Running average over N last games -- momentum combine last 5/10/20
+1) Correction for opposing team's points allowed
+	a. by position?
+	b. Look at something besides points allowed -- TO/game, FG% allowed, % def rebounds
+2) Correction for home/away -- by position?
+3) How recently did he play? Games in last 10 days?
